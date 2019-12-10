@@ -1,6 +1,8 @@
 
 # Study Buddy    
- Assignment & Study Schedule Organizer    
+ Assignment & Study Schedule Organizer  
+ *Play store link*
+ https://play.google.com/store/apps/details?id=com.cksoftapps.study_buddy
   
 ## Elided source files  
 The following files are not included in this repository for security reasons.   
