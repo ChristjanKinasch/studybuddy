@@ -1,7 +1,7 @@
 
 # Study Buddy    
  Assignment & Study Schedule Organizer  
- *Play store link*
+ *Google Play Store*:
  https://play.google.com/store/apps/details?id=com.cksoftapps.study_buddy
   
 ## Elided source files  
